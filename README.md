@@ -1,1 +1,1 @@
-It is reconcillation project.
+It is reconcillation project for general use.
